@@ -20,11 +20,10 @@ Using a server API to retrieve weather information to create a personal dashboar
 [Completed challenge] (https://mtruong1995.github.io/work-day-scheduler/)
 
 ## Repo link:
-[Repository] (https://github.com/mtruong1995/work-day-scheduler)
+[Repository] (https://github.com/mtruong1995/Personal-weather-dashboard-api)
 
 ## Screenshot:
 
-![Screenshot of scheduler](scheduler-screenshot.png)
 
 
 ## Credit
